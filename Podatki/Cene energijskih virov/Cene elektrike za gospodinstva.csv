@@ -1,0 +1,331 @@
+TIME,GEO,PRODUCT,CONSOM,UNIT,TAX,CURRENCY,Value,Flag and Footnotes
+2007S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1657
+2007S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1907
+2007S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2288
+2007S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0992
+2007S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1091
+2007S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1310
+2007S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0861
+2007S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0930
+2007S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1116
+2007S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0798
+2007S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0851
+2007S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1021
+2007S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0756
+2007S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0798
+2007S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.0958
+2008S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1464
+2008S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1548
+2008S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1858
+2008S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1027
+2008S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1080
+2008S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1296
+2008S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0911
+2008S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0956
+2008S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1147
+2008S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0849
+2008S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0888
+2008S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1066
+2008S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0802
+2008S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0839
+2008S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1006
+2008S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1523
+2008S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1610
+2008S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1932
+2008S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1041
+2008S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1095
+2008S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1314
+2008S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0919
+2008S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0964
+2008S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1156
+2008S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0870
+2008S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0910
+2008S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1092
+2008S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0860
+2008S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0896
+2008S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1076
+2009S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1928
+2009S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2213
+2009S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2656
+2009S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1212
+2009S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1322
+2009S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1587
+2009S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1056
+2009S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1122
+2009S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1346
+2009S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1013
+2009S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1055
+2009S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1266
+2009S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1015
+2009S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1041
+2009S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1249
+2009S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.2036
+2009S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2356
+2009S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2828
+2009S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1216
+2009S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1329
+2009S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1595
+2009S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1050
+2009S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1117
+2009S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1341
+2009S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0983
+2009S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1026
+2009S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1231
+2009S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0955
+2009S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0980
+2009S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1176
+2010S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1760
+2010S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2175
+2010S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2610
+2010S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1212
+2010S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1394
+2010S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1672
+2010S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1057
+2010S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1167
+2010S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1401
+2010S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0994
+2010S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1064
+2010S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1277
+2010S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0967
+2010S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1007
+2010S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1209
+2010S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1741
+2010S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2169
+2010S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2603
+2010S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1214
+2010S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1417
+2010S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1700
+2010S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1058
+2010S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1189
+2010S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1426
+2010S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0994
+2010S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1085
+2010S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1302
+2010S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0966
+2010S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1028
+2010S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1233
+2011S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1578
+2011S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1917
+2011S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2300
+2011S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1211
+2011S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1394
+2011S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1673
+2011S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1079
+2011S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1201
+2011S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1441
+2011S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1024
+2011S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1110
+2011S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1332
+2011S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0990
+2011S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1049
+2011S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1259
+2011S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1640
+2011S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1876
+2011S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2252
+2011S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1284
+2011S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1418
+2011S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1702
+2011S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1149
+2011S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1243
+2011S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1492
+2011S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1064
+2011S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1134
+2011S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1361
+2011S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0987
+2011S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1041
+2011S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1249
+2012S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1632
+2012S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1843
+2012S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2212
+2012S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1326
+2012S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1457
+2012S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1749
+2012S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1193
+2012S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1285
+2012S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1542
+2012S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1100
+2012S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1170
+2012S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1404
+2012S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1009
+2012S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1061
+2012S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1273
+2012S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1674
+2012S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1890
+2012S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2268
+2012S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1344
+2012S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1475
+2012S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1770
+2012S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1192
+2012S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1285
+2012S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1542
+2012S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1100
+2012S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1171
+2012S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1405
+2012S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1015
+2012S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1069
+2012S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1283
+2013S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1578
+2013S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1995
+2013S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2394
+2013S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1319
+2013S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1571
+2013S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1885
+2013S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1177
+2013S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1342
+2013S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1610
+2013S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1087
+2013S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1199
+2013S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1438
+2013S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0994
+2013S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1066
+2013S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1279
+2013S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1607
+2013S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2091
+2013S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2551
+2013S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1336
+2013S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1620
+2013S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1976
+2013S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1176
+2013S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1358
+2013S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1657
+2013S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1085
+2013S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1208
+2013S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1473
+2013S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1006
+2013S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1085
+2013S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1323
+2014S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1600
+2014S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2071
+2014S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2527
+2014S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1313
+2014S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1598
+2014S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1950
+2014S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1152
+2014S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1336
+2014S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1630
+2014S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1062
+2014S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1185
+2014S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1446
+2014S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0986
+2014S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1064
+2014S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1298
+2014S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1389
+2014S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1745
+2014S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2129
+2014S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1295
+2014S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1583
+2014S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1932
+2014S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1151
+2014S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1338
+2014S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1632
+2014S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1064
+2014S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1191
+2014S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1453
+2014S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0990
+2014S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1073
+2014S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1309
+2015S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1172
+2015S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1797
+2015S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2192
+2015S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1273
+2015S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1557
+2015S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1900
+2015S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1123
+2015S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1302
+2015S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1589
+2015S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1028
+2015S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1145
+2015S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1397
+2015S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0966
+2015S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1042
+2015S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1272
+2015S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1158
+2015S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1822
+2015S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2223
+2015S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1271
+2015S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1604
+2015S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1957
+2015S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1126
+2015S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1337
+2015S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1631
+2015S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1033
+2015S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1169
+2015S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1427
+2015S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0969
+2015S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1055
+2015S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1288
+2016S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1171
+2016S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1528
+2016S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1865
+2016S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1269
+2016S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1626
+2016S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1984
+2016S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1112
+2016S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1326
+2016S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1618
+2016S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1018
+2016S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1152
+2016S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1406
+2016S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0953
+2016S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1038
+2016S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1266
+2016S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1167
+2016S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1527
+2016S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1863
+2016S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1273
+2016S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1633
+2016S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1993
+2016S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1117
+2016S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1336
+2016S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1629
+2016S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1023
+2016S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1163
+2016S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1419
+2016S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0954
+2016S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1042
+2016S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1271
+2017S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1544
+2017S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2162
+2017S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2638
+2017S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1247
+2017S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1598
+2017S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1949
+2017S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1104
+2017S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1319
+2017S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1609
+2017S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1012
+2017S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1146
+2017S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1398
+2017S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0938
+2017S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1022
+2017S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1247
+2017S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1508
+2017S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2078
+2017S2,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.2535
+2017S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1253
+2017S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1624
+2017S2,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1981
+2017S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1105
+2017S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1322
+2017S2,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1613
+2017S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1011
+2017S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1147
+2017S2,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1399
+2017S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0939
+2017S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1026
+2017S2,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1251
+2018S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1876
+2018S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.2783
+2018S1,Slovenia,Electrical energy,Band DA : Consumption < 1 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.3395
+2018S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1276
+2018S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1637
+2018S1,Slovenia,Electrical energy,Band DB : 1 000 kWh < Consumption < 2 500 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1998
+2018S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1108
+2018S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1322
+2018S1,Slovenia,Electrical energy,Band DC : 2 500 kWh < Consumption < 5 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1613
+2018S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.1005
+2018S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1137
+2018S1,Slovenia,Electrical energy,Band DD : 5 000 kWh < Consumption < 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1387
+2018S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding taxes and levies,Euro,0.0932
+2018S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.1016
+2018S1,Slovenia,Electrical energy,Band DE : Consumption > 15 000 kWh,Kilowatt-hour,All taxes and levies included,Euro,0.1239
