@@ -1,0 +1,397 @@
+TIME,GEO,PRODUCTONSOM,UNIT,TAXURRENCY,Value,Flag and Footnotes
+2007S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0406
+2007S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0435
+2007S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0522
+2007S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0376
+2007S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0405
+2007S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0486
+2007S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0290
+2007S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0318
+2007S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0382
+2007S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0244
+2007S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0273
+2007S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0328
+2007S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2007S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2007S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2007S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2007S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2007S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2008S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0410
+2008S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0438
+2008S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0526
+2008S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0388
+2008S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0417
+2008S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0500
+2008S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0336
+2008S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0364
+2008S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0437
+2008S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0303
+2008S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0331
+2008S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0397
+2008S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2008S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2008S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2008S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2008S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2008S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2008S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0585
+2008S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0613
+2008S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0736
+2008S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0568
+2008S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0596
+2008S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0716
+2008S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0427
+2008S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0456
+2008S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0547
+2008S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0390
+2008S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0419
+2008S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0502
+2008S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2008S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2008S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2008S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2008S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2008S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2009S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0553
+2009S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0581
+2009S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0698
+2009S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0503
+2009S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0531
+2009S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0637
+2009S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0408
+2009S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0437
+2009S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0524
+2009S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2009S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2009S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2009S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2009S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2009S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2009S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2009S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2009S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2009S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0450
+2009S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0478
+2009S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0574
+2009S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0447
+2009S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0476
+2009S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0571
+2009S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0318
+2009S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0346
+2009S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0415
+2009S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0244
+2009S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0272
+2009S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0326
+2009S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2009S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2009S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2009S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2009S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2009S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2010S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0450
+2010S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0483
+2010S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0580
+2010S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0403
+2010S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0436
+2010S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0523
+2010S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0392
+2010S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0425
+2010S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0510
+2010S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0374
+2010S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0407
+2010S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0488
+2010S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2010S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2010S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2010S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2010S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2010S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2010S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0514
+2010S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0559
+2010S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0670
+2010S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0471
+2010S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0515
+2010S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0619
+2010S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0381
+2010S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0425
+2010S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0510
+2010S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0315
+2010S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0359
+2010S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0431
+2010S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2010S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2010S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2010S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2010S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2010S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2011S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0482
+2011S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0527
+2011S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0632
+2011S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0482
+2011S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0527
+2011S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0632
+2011S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0403
+2011S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0447
+2011S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0537
+2011S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2011S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2011S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2011S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2011S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2011S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2011S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2011S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2011S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2011S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0616
+2011S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0661
+2011S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0793
+2011S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0605
+2011S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0650
+2011S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0780
+2011S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0474
+2011S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0518
+2011S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0622
+2011S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2011S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2011S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2011S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2011S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2011S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2011S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2011S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2011S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2012S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0637
+2012S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0682
+2012S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0818
+2012S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0590
+2012S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0635
+2012S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0762
+2012S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0533
+2012S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0577
+2012S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0693
+2012S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0438
+2012S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0482
+2012S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0578
+2012S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2012S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2012S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2012S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2012S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2012S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2012S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0586
+2012S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0631
+2012S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0757
+2012S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0568
+2012S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0612
+2012S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0735
+2012S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0506
+2012S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0551
+2012S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0661
+2012S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0420
+2012S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0464
+2012S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0557
+2012S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2012S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2012S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2012S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2012S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2012S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2013S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0535
+2013S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0583
+2013S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0699
+2013S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0504
+2013S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0551
+2013S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0662
+2013S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0446
+2013S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0494
+2013S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0592
+2013S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0363
+2013S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0411
+2013S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0493
+2013S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2013S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2013S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2013S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2013S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2013S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2013S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0535
+2013S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0583
+2013S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0711
+2013S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0474
+2013S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0522
+2013S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0636
+2013S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0432
+2013S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0480
+2013S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0585
+2013S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0354
+2013S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0402
+2013S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0490
+2013S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2013S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2013S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2013S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2013S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2013S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2014S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0425
+2014S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0473
+2014S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0577
+2014S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0494
+2014S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0542
+2014S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0662
+2014S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0383
+2014S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0431
+2014S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0526
+2014S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0316
+2014S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0365
+2014S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0445
+2014S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2014S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2014S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2014S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2014S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2014S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2014S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0535
+2014S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0587
+2014S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0717
+2014S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0500
+2014S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0553
+2014S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0674
+2014S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0385
+2014S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0438
+2014S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0534
+2014S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0304
+2014S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0357
+2014S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0435
+2014S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2014S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2014S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2014S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2014S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2014S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2015S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0465
+2015S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0521
+2015S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0636
+2015S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0445
+2015S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0498
+2015S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0608
+2015S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0321
+2015S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0367
+2015S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0448
+2015S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0296
+2015S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0325
+2015S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0396
+2015S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2015S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2015S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2015S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2015S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2015S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2015S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0451
+2015S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0503
+2015S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0614
+2015S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0453
+2015S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0514
+2015S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0627
+2015S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0326
+2015S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0380
+2015S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0464
+2015S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0274
+2015S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0300
+2015S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0366
+2015S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2015S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2015S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2015S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2015S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2015S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2016S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0429
+2016S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0481
+2016S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0586
+2016S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0415
+2016S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0471
+2016S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0575
+2016S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0294
+2016S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0345
+2016S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0421
+2016S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0244
+2016S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0272
+2016S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0332
+2016S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2016S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2016S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2016S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2016S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2016S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2016S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0405
+2016S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0450
+2016S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0549
+2016S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0386
+2016S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0441
+2016S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0537
+2016S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0276
+2016S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0326
+2016S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0398
+2016S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0220
+2016S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0246
+2016S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0300
+2016S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2016S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2016S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2016S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2016S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2016S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2017S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0387
+2017S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0448
+2017S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0547
+2017S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0330
+2017S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0385
+2017S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0470
+2017S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0259
+2017S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0309
+2017S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0378
+2017S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0224
+2017S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0253
+2017S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0309
+2017S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2017S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2017S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2017S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2017S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2017S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2017S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0368
+2017S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0424
+2017S2,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0517
+2017S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0365
+2017S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0423
+2017S2,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0516
+2017S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0268
+2017S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0320
+2017S2,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0390
+2017S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0220
+2017S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0247
+2017S2,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0301
+2017S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2017S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2017S2,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2017S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2017S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2017S2,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2018S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0400
+2018S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0461
+2018S1,Slovenia,Natural gas,Band I1 : Consumption < 1 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0563
+2018S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0361
+2018S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0418
+2018S1,Slovenia,Natural gas,Band I2 : 1 000 GJ < Consumption < 10 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0509
+2018S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0274
+2018S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0318
+2018S1,Slovenia,Natural gas,Band I3 : 10 000 GJ < Consumption < 100 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0387
+2018S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,0.0226
+2018S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,0.0253
+2018S1,Slovenia,Natural gas,Band I4 : 100 000 GJ < Consumption < 1 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,0.0309
+2018S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2018S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2018S1,Slovenia,Natural gas,Band I5 : 1 000 000 GJ < Consumption < 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
+2018S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding taxes and levies,Euro,:
+2018S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,Excluding VAT and other recoverable taxes and levies,Euro,:
+2018S1,Slovenia,Natural gas,Band I6 : Consumption > 4 000 000 GJ,Kilowatt-hour,All taxes and levies included,Euro,:
