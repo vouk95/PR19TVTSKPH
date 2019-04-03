@@ -15,7 +15,7 @@ https://ec.europa.eu/eurostat/web/energy/data/database
 https://podatki.gov.si/dataset/surs1817892s  
 Da smo podatke lahko uporabili, smo jih najprej ustrezno razdelili (npr. po mesecih, letih) in upoštevali le tiste, ki nas zanimajo (v primeru da je preveč podatkov).
 
-Naše glavno vprašanje je „Kako se spreminja poraba in cena različnih energijskih virov?“. Za enkrat smo se osredotočili na elektriko, plin in goriva Euro95, Euro98 in dizel. Pri porabi pa smo primerjali kurilno olje, les, elektriko, premog, daljinsko toploto, sončno energijo, toploto iz okolice, utekočinjen naftni plin, zemeljski plin in pa vse skupaj.
+Naše glavno vprašanje je „Kako se spreminja poraba in cena različnih energijskih virov?“. Ugotoviti hočemo, v kateri vir, bi se bilo najboljše usmeriti. Za enkrat smo se osredotočili na elektriko, plin in goriva Euro95, Euro98 in dizel. Pri porabi pa smo primerjali kurilno olje, les, elektriko, premog, daljinsko toploto, sončno energijo, toploto iz okolice, utekočinjen naftni plin, zemeljski plin in pa vse skupaj.
 
 ![1](https://user-images.githubusercontent.com/24211841/55436749-66892080-559d-11e9-8781-f9779c22019a.jpg)
 
