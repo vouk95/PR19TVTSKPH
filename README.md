@@ -35,7 +35,6 @@ Grafi prikazujejo kako ljudje čez leto segrevajo oziroma ohlajajo svoje domove.
 
 ![Energetski viri skupaj](https://user-images.githubusercontent.com/44469307/55471265-a84fb080-5609-11e9-9569-099b2e6c4804.png)<br>
 
-
 ![Lesna goriva](https://user-images.githubusercontent.com/44469307/55471266-a84fb080-5609-11e9-9968-8cb9984abc7c.png)
 ![Premog](https://user-images.githubusercontent.com/44469307/55471267-a84fb080-5609-11e9-998b-30b63e399302.png)
 ![Elektricna energija](https://user-images.githubusercontent.com/44469307/55471264-a7b71a00-5609-11e9-96b5-df5e9364392b.png)
