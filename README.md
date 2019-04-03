@@ -37,20 +37,12 @@ Grafi prikazujejo kako ljudje čez leto segrevajo oziroma ohlajajo svoje domove.
 
 
 ![Lesna goriva](https://user-images.githubusercontent.com/44469307/55471266-a84fb080-5609-11e9-9968-8cb9984abc7c.png)
-
 ![Premog](https://user-images.githubusercontent.com/44469307/55471267-a84fb080-5609-11e9-998b-30b63e399302.png)
-
 ![Elektricna energija](https://user-images.githubusercontent.com/44469307/55471264-a7b71a00-5609-11e9-96b5-df5e9364392b.png)
-
 ![Soncna energija](https://user-images.githubusercontent.com/44469307/55471268-a8e84700-5609-11e9-8268-ba9b11dffb30.png)
-
-
 ![Utekocinjen naftni plin](https://user-images.githubusercontent.com/44469307/55471270-a8e84700-5609-11e9-83ff-6e4873009430.png)
-
 ![Zemeljski plin](https://user-images.githubusercontent.com/44469307/55471271-a8e84700-5609-11e9-954f-238046d3e87c.png)
-
 ![Ekstra kurilno olje](https://user-images.githubusercontent.com/44469307/55471263-a7b71a00-5609-11e9-9da9-e616cfcff6b6.png)
-
 ![Daljinska toplota](https://user-images.githubusercontent.com/44469307/55471262-a7b71a00-5609-11e9-9789-9ffcd59b9730.png)
 ![Toplota iz okolice](https://user-images.githubusercontent.com/44469307/55471269-a8e84700-5609-11e9-8c8e-4baf8169477c.png)
 
