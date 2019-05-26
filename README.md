@@ -50,3 +50,4 @@ Po analizi vidimo, da v Sloveniji najbolj koristimo lesna goriva, električno en
 
 ![tabela](https://user-images.githubusercontent.com/24211841/58386708-d0550200-8003-11e9-9713-ff3982726eed.png)
 ![raba_el_en_1](https://user-images.githubusercontent.com/24211841/58386711-db0f9700-8003-11e9-8270-2564d8b9c1d4.png)
+![ener_bil](https://user-images.githubusercontent.com/24211841/58387470-e4523100-800e-11e9-8857-14b363cc52e7.png)
