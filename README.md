@@ -51,3 +51,17 @@ Po analizi vidimo, da v Sloveniji najbolj koristimo lesna goriva, električno en
 ![tabela](https://user-images.githubusercontent.com/24211841/58386708-d0550200-8003-11e9-9713-ff3982726eed.png)
 ![raba_el_en_1](https://user-images.githubusercontent.com/24211841/58386711-db0f9700-8003-11e9-8270-2564d8b9c1d4.png)
 ![ener_bil](https://user-images.githubusercontent.com/24211841/58387470-e4523100-800e-11e9-8857-14b363cc52e7.png)
+Vidimo, da se je povečal uvoz vseh energetskih virov torej bi pričakovali ,da se bo domača proizvodnja umirila in izvoz padel. Iz grafa je razvidno, da ta hipoteza ne drži. Domača proizvodnja je ostala približno enaka, izvoz pa sledi trendu uvoza. V tem vidimo dobro stvar, ker omogoča poslovanje na trgu. Odvisno je pa od cene s katero uvažamo/izvažamo energetske vire. Ustvarimo razmerje **Market Loss.**<br>**Market Loss** = (cena uvoza * količina uvoza)/(cena izvoza * količina izvoza).<br>
+Ceno uvoza/izvoza dobimo tako, da izračunamo povprečje cen vseh energetskih virov. 
+Če hočemo biti boljši na trgu, potrebujemo **Market Loss**, ki je manjši kot 1. 
+**PRIMER ZA LETO 2018**
+toe ~ tonne of oil equivalent
+1 toe = 41.868 gigajoules (GJ)
+UVOZ  = 6344115 * 1000 = 6344115000 toe * 41,868 = 256.615.406.820 [GJ]
+IZVOZ = 2947336 * 1000 = 2947336000 toe * 41,868 = 123.399.063.648 [GJ]
+
+Predpostavimo, da sta ceni uvoza in izvoza enaki. 
+
+(256.615.406.820 [GJ] * 1)/(123.399.063.648 [GJ] * 1) = 2,0795571638.
+
+Ceno izvoženih energetskih virov bi morali pomnožiti z **Market Loss**. S tem bi izenačili količino denarja, ki zapusti državo s količino denarja, ki pride v državo.
