@@ -33,7 +33,7 @@ Pri gorivih so grafi razdeljeni na začetne cene (brez dodatnih stroškov) in na
 
 Grafi prikazujejo kako ljudje čez leto segrevajo oziroma ohlajajo svoje domove. Rezultati ustrezno z logiko pokažejo, da pozimi ljudje bolj segrevajo kot poleti (in obratno za hlajenje), zanimivo pa je, da območje vzhodne Slovenije v povprečju potrebuje več energije za doseganje želene temperature kot območje zahodne Slovenije. Se pravi je dražje živeti na vzhodu kot pa na zahodu (če se omejimo na stroške ogrevanja).
 
-![Energetski viri skupaj](https://user-images.githubusercontent.com/44469307/58387188-2a0cfa80-800b-11e9-89cf-2f39dcfe0e91.png<br>
+![Energetski viri skupaj](https://user-images.githubusercontent.com/44469307/58387188-2a0cfa80-800b-11e9-89cf-2f39dcfe0e91.png)<br>
 
 ![Lesna goriva](https://user-images.githubusercontent.com/44469307/55471266-a84fb080-5609-11e9-9968-8cb9984abc7c.png)
 ![Premog](https://user-images.githubusercontent.com/44469307/55471267-a84fb080-5609-11e9-998b-30b63e399302.png)
