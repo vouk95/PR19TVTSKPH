@@ -47,3 +47,8 @@ Grafi prikazujejo kako ljudje čez leto segrevajo oziroma ohlajajo svoje domove.
 
 
 Po analizi vidimo, da v Sloveniji najbolj koristimo lesna goriva, električno energijo in zemeljski plin. Včasih smo uporabljali tudi premog in kurilno olje, a v današnjem času je njuna poraba močno upadla. Znižanje porabe se opazi tudi pri daljinski toploti in naftnem plinu, medtem ko sončno energijo in toploto iz okolice uporabljamo vedno več. Če primerjamo skupno porabo skozi čas, vidimo, da se je leta 2013/14 poraba močno zmanjšala, danes pa je kljub ponovnem povečanju še vedno manjša od skupne porabe 10 let nazaj.
+
+![tabela](https://user-images.githubusercontent.com/24211841/58386708-d0550200-8003-11e9-9713-ff3982726eed.png)
+![raba_el_en_1](https://user-images.githubusercontent.com/24211841/58386711-db0f9700-8003-11e9-8270-2564d8b9c1d4.png)
+![vsi_viri](https://user-images.githubusercontent.com/24211841/58386714-e236a500-8003-11e9-8a2d-6b1f6897bbc1.png)
+![temp](https://user-images.githubusercontent.com/24211841/58386722-0abe9f00-8004-11e9-903c-ff6255dc62e5.jpg)
