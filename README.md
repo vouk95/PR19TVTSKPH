@@ -29,11 +29,11 @@ Pri gorivih so grafi razdeljeni na začetne cene (brez dodatnih stroškov) in na
 
 ![5](https://user-images.githubusercontent.com/24211841/55436784-7a348700-559d-11e9-8af6-df3748971c95.jpg)
 ![6](https://user-images.githubusercontent.com/24211841/55436793-7bfe4a80-559d-11e9-9d1a-25cff0872af1.jpg)
-![7](https://user-images.githubusercontent.com/24211841/55436796-7dc80e00-559d-11e9-84a7-9e3bb755b8df.jpg)
+![7](https://user-images.githubusercontent.com/24211841/58386722-0abe9f00-8004-11e9-903c-ff6255dc62e5.jpg)
 
 Grafi prikazujejo kako ljudje čez leto segrevajo oziroma ohlajajo svoje domove. Rezultati ustrezno z logiko pokažejo, da pozimi ljudje bolj segrevajo kot poleti (in obratno za hlajenje), zanimivo pa je, da območje vzhodne Slovenije v povprečju potrebuje več energije za doseganje želene temperature kot območje zahodne Slovenije. Se pravi je dražje živeti na vzhodu kot pa na zahodu (če se omejimo na stroške ogrevanja).
 
-![Energetski viri skupaj](https://user-images.githubusercontent.com/44469307/55471265-a84fb080-5609-11e9-9569-099b2e6c4804.png)<br>
+![Energetski viri skupaj](https://user-images.githubusercontent.com/44469307/58387188-2a0cfa80-800b-11e9-89cf-2f39dcfe0e91.png)<br>
 
 ![Lesna goriva](https://user-images.githubusercontent.com/44469307/55471266-a84fb080-5609-11e9-9968-8cb9984abc7c.png)
 ![Premog](https://user-images.githubusercontent.com/44469307/55471267-a84fb080-5609-11e9-998b-30b63e399302.png)
@@ -46,4 +46,22 @@ Grafi prikazujejo kako ljudje čez leto segrevajo oziroma ohlajajo svoje domove.
 ![Toplota iz okolice](https://user-images.githubusercontent.com/44469307/55471269-a8e84700-5609-11e9-8c8e-4baf8169477c.png)
 
 
-Po analizi vidimo, da v Sloveniji najbolj koristimo lesna goriva, električno energijo in zemeljski plin. Včasih smo uporabljali tudi premog in kurilno olje, a v današnjem času je njuna poraba močno upadla. Znižanje porabe se opazi tudi pri daljinski toploti in naftnem plinu, medtem ko sončno energijo in toploto iz okolice uporabljamo vedno več. Če primerjamo skupno porabo skozi čas, vidimo, da se je leta 2013/14 poraba močno zmanjšala, danes pa je kljub ponovnem povečanju še vedno manjša od skupne porabe 10 let nazaj.
+Po analizi vidimo, da v Sloveniji najbolj koristimo lesna goriva, električno energijo in zemeljski plin. Včasih smo uporabljali tudi premog in kurilno olje, a v današnjem času je njuna poraba močno upadla. Znižanje porabe se opazi tudi pri daljinski toploti in naftnem plinu, medtem ko sončno energijo in toploto iz okolice uporabljamo vedno več.
+
+![tabela](https://user-images.githubusercontent.com/24211841/58386708-d0550200-8003-11e9-9713-ff3982726eed.png)
+![raba_el_en_1](https://user-images.githubusercontent.com/24211841/58386711-db0f9700-8003-11e9-8270-2564d8b9c1d4.png)
+![ener_bil](https://user-images.githubusercontent.com/24211841/58387470-e4523100-800e-11e9-8857-14b363cc52e7.png)
+Vidimo, da se je povečal uvoz vseh energetskih virov torej bi pričakovali ,da se bo domača proizvodnja umirila in izvoz padel. Iz grafa je razvidno, da ta hipoteza ne drži. Domača proizvodnja je ostala približno enaka, izvoz pa sledi trendu uvoza. V tem vidimo dobro stvar, ker omogoča poslovanje na trgu. Odvisno je pa od cene s katero uvažamo/izvažamo energetske vire. Ustvarimo razmerje **Market Loss.**<br>**Market Loss** = (cena uvoza * količina uvoza)/(cena izvoza * količina izvoza).<br>
+Ceno uvoza/izvoza dobimo tako, da izračunamo povprečje cen vseh energetskih virov. 
+Če hočemo biti boljši na trgu, potrebujemo **Market Loss**, ki je manjši kot 1. 
+**PRIMER ZA LETO 2018**
+toe ~ tonne of oil equivalent
+1 toe = 41.868 gigajoules (GJ)
+UVOZ  = 6344115 * 1000 = 6344115000 toe * 41,868 = 256.615.406.820 [GJ]
+IZVOZ = 2947336 * 1000 = 2947336000 toe * 41,868 = 123.399.063.648 [GJ]
+
+Predpostavimo, da sta ceni uvoza in izvoza enaki. 
+
+(256.615.406.820 [GJ] * 1)/(123.399.063.648 [GJ] * 1) = 2,0795571638.
+
+Ceno izvoženih energetskih virov bi morali pomnožiti z **Market Loss**. S tem bi izenačili količino denarja, ki zapusti državo s količino denarja, ki pride v državo.
